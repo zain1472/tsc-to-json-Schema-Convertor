@@ -1,0 +1,5246 @@
+[
+    {
+      "name": "Afghanistan",
+      "code": "AF",
+      "callingCode": "+93",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+      "language": {
+        "iso639_1": "ps",
+        "iso639_2": "pus",
+        "name": "Pashto",
+        "nativeName": "پښتو"
+      },
+      "currency": {
+        "code": "AFN",
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      },
+      "nationality": "Afghan",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "AFG"
+    },
+    {
+      "name": "Åland Islands",
+      "code": "AX",
+      "callingCode": "+358",
+      "flag": "https://flagcdn.com/ax.svg",
+      "language": {
+        "iso639_1": "sv",
+        "iso639_2": "swe",
+        "name": "Swedish",
+        "nativeName": "svenska"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Åland Island",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "ALA"
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "callingCode": "+355",
+      "flag": "https://flagcdn.com/al.svg",
+      "language": {
+        "iso639_1": "sq",
+        "iso639_2": "sqi",
+        "name": "Albanian",
+        "nativeName": "Shqip"
+      },
+      "currency": {
+        "code": "ALL",
+        "name": "Albanian lek",
+        "symbol": "L"
+      },
+      "nationality": "Albanian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "ALB"
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ",
+      "callingCode": "+213",
+      "flag": "https://flagcdn.com/dz.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      },
+      "nationality": "Algerian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "DZA"
+    },
+    {
+      "name": "American Samoa",
+      "code": "AS",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/as.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      },
+      "nationality": "American Samoan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "ASM"
+    },
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "callingCode": "+376",
+      "flag": "https://flagcdn.com/ad.svg",
+      "language": {
+        "iso639_1": "ca",
+        "iso639_2": "cat",
+        "name": "Catalan",
+        "nativeName": "català"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Andorran",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "AND"
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "callingCode": "+244",
+      "flag": "https://flagcdn.com/ao.svg",
+      "language": {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      },
+      "currency": {
+        "code": "AOA",
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      },
+      "nationality": "Angolan",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "AGO"
+    },
+    {
+      "name": "Anguilla",
+      "code": "AI",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/ai.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      },
+      "nationality": "Anguillan",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "AIA"
+    },
+    {
+      "name": "Antarctica",
+      "code": "AQ",
+      "callingCode": "+672",
+      "flag": "https://flagcdn.com/aq.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {},
+      "nationality": "Antarctic",
+      "continent": "Antarctica",
+      "continentNationality": "Antarctican",
+      "alpha3Code": "ATA"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/ag.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      },
+      "nationality": "Antiguan or Barbudan",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "ATG"
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "callingCode": "+54",
+      "flag": "https://flagcdn.com/ar.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "ARS",
+        "name": "Argentine peso",
+        "symbol": "$"
+      },
+      "nationality": "Argentine",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "ARG"
+    },
+    {
+      "name": "Armenia",
+      "code": "AM",
+      "callingCode": "+374",
+      "flag": "https://flagcdn.com/am.svg",
+      "language": {
+        "iso639_1": "hy",
+        "iso639_2": "hye",
+        "name": "Armenian",
+        "nativeName": "Հայերեն"
+      },
+      "currency": {
+        "code": "AMD",
+        "name": "Armenian dram",
+        "symbol": "֏"
+      },
+      "nationality": "Armenian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "ARM"
+    },
+    {
+      "name": "Aruba",
+      "code": "AW",
+      "callingCode": "+297",
+      "flag": "https://flagcdn.com/aw.svg",
+      "language": {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      "currency": {
+        "code": "AWG",
+        "name": "Aruban florin",
+        "symbol": "ƒ"
+      },
+      "nationality": "Aruban",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "ABW"
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "callingCode": "+61",
+      "flag": "https://flagcdn.com/au.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Australian",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "AUS"
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "callingCode": "+43",
+      "flag": "https://flagcdn.com/at.svg",
+      "language": {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Austrian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "AUT"
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "callingCode": "+994",
+      "flag": "https://flagcdn.com/az.svg",
+      "language": {
+        "iso639_1": "az",
+        "iso639_2": "aze",
+        "name": "Azerbaijani",
+        "nativeName": "azərbaycan dili"
+      },
+      "currency": {
+        "code": "AZN",
+        "name": "Azerbaijani manat",
+        "symbol": "₼"
+      },
+      "nationality": "Azerbaijani, Azeri",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "AZE"
+    },
+    {
+      "name": "Bahamas",
+      "code": "BS",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/bs.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "BSD",
+        "name": "Bahamian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Bahamian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "BHS"
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH",
+      "callingCode": "+973",
+      "flag": "https://flagcdn.com/bh.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "BHD",
+        "name": "Bahraini dinar",
+        "symbol": ".د.ب"
+      },
+      "nationality": "Bahraini",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "BHR"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "callingCode": "+880",
+      "flag": "https://flagcdn.com/bd.svg",
+      "language": {
+        "iso639_1": "bn",
+        "iso639_2": "ben",
+        "name": "Bengali",
+        "nativeName": "বাংলা"
+      },
+      "currency": {
+        "code": "BDT",
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      },
+      "nationality": "Bangladeshi",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "BGD"
+    },
+    {
+      "name": "Barbados",
+      "code": "BB",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/bb.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "BBD",
+        "name": "Barbadian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Barbadian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "BRB"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "callingCode": "+375",
+      "flag": "https://flagcdn.com/by.svg",
+      "language": {
+        "iso639_1": "be",
+        "iso639_2": "bel",
+        "name": "Belarusian",
+        "nativeName": "беларуская мова"
+      },
+      "currency": {
+        "code": "BYN",
+        "name": "New Belarusian ruble",
+        "symbol": "Br"
+      },
+      "nationality": "Belarusian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "BLR"
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "callingCode": "+32",
+      "flag": "https://flagcdn.com/be.svg",
+      "language": {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Belgian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "BEL"
+    },
+    {
+      "name": "Belize",
+      "code": "BZ",
+      "callingCode": "+501",
+      "flag": "https://flagcdn.com/bz.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "BZD",
+        "name": "Belize dollar",
+        "symbol": "$"
+      },
+      "nationality": "Belizean",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "BLZ"
+    },
+    {
+      "name": "Benin",
+      "code": "BJ",
+      "callingCode": "+229",
+      "flag": "https://flagcdn.com/bj.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Beninese, Beninois",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "BEN"
+    },
+    {
+      "name": "Bermuda",
+      "code": "BM",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/bm.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "BMD",
+        "name": "Bermudian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Bermudian, Bermudan",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "BMU"
+    },
+    {
+      "name": "Bhutan",
+      "code": "BT",
+      "callingCode": "+975",
+      "flag": "https://flagcdn.com/bt.svg",
+      "language": {
+        "iso639_1": "dz",
+        "iso639_2": "dzo",
+        "name": "Dzongkha",
+        "nativeName": "རྫོང་ཁ"
+      },
+      "currency": {
+        "code": "BTN",
+        "name": "Bhutanese ngultrum",
+        "symbol": "Nu."
+      },
+      "nationality": "Bhutanese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "BTN"
+    },
+    {
+      "name": "Bolivia (Plurinational State of)",
+      "code": "BO",
+      "callingCode": "+591",
+      "flag": "https://flagcdn.com/bo.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "BOB",
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      },
+      "nationality": "Bolivian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "BOL"
+    },
+    {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "code": "BQ",
+      "callingCode": "+599",
+      "flag": "https://flagcdn.com/bq.svg",
+      "language": {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "Bonaire",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "BES"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "callingCode": "+387",
+      "flag": "https://flagcdn.com/ba.svg",
+      "language": {
+        "iso639_1": "bs",
+        "iso639_2": "bos",
+        "name": "Bosnian",
+        "nativeName": "bosanski jezik"
+      },
+      "currency": {
+        "code": "BAM",
+        "name": "Bosnia and Herzegovina convertible mark",
+        "symbol": "KM"
+      },
+      "nationality": "Bosnian or Herzegovinian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "BIH"
+    },
+    {
+      "name": "Botswana",
+      "code": "BW",
+      "callingCode": "+267",
+      "flag": "https://flagcdn.com/bw.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "BWP",
+        "name": "Botswana pula",
+        "symbol": "P"
+      },
+      "nationality": "Motswana, Botswanan",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "BWA"
+    },
+    {
+      "name": "Bouvet Island",
+      "code": "BV",
+      "callingCode": "+47",
+      "flag": "https://flagcdn.com/bv.svg",
+      "language": {
+        "iso639_1": "no",
+        "iso639_2": "nor",
+        "name": "Norwegian",
+        "nativeName": "Norsk"
+      },
+      "currency": {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      },
+      "nationality": "Bouvet Island",
+      "continent": "Atlantic Ocean",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "BVT"
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "callingCode": "+55",
+      "flag": "https://flagcdn.com/br.svg",
+      "language": {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      },
+      "currency": {
+        "code": "BRL",
+        "name": "Brazilian real",
+        "symbol": "R$"
+      },
+      "nationality": "Brazilian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "BRA"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "code": "IO",
+      "callingCode": "+246",
+      "flag": "https://flagcdn.com/io.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "BIOT",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "IOT"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "code": "UM",
+      "callingCode": "+246",
+      "flag": "https://flagcdn.com/um.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      "nationality": "American",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "UMI"
+    },
+    {
+      "name": "Virgin Islands (British)",
+      "code": "VG",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/vg.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "British Virgin Island",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "VGB"
+    },
+    {
+      "name": "Virgin Islands (U.S.)",
+      "code": "VI",
+      "callingCode": "+1 340",
+      "flag": "https://flagcdn.com/vi.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "U.S. Virgin Island",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "VIR"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "code": "BN",
+      "callingCode": "+673",
+      "flag": "https://flagcdn.com/bn.svg",
+      "language": {
+        "iso639_1": "ms",
+        "iso639_2": "msa",
+        "name": "Malay",
+        "nativeName": "bahasa Melayu"
+      },
+      "currency": {
+        "code": "BND",
+        "name": "Brunei dollar",
+        "symbol": "$"
+      },
+      "nationality": "Bruneian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "BRN"
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "callingCode": "+359",
+      "flag": "https://flagcdn.com/bg.svg",
+      "language": {
+        "iso639_1": "bg",
+        "iso639_2": "bul",
+        "name": "Bulgarian",
+        "nativeName": "български език"
+      },
+      "currency": {
+        "code": "BGN",
+        "name": "Bulgarian lev",
+        "symbol": "лв"
+      },
+      "nationality": "Bulgarian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "BGR"
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "callingCode": "+226",
+      "flag": "https://flagcdn.com/bf.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Burkinabé",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "BFA"
+    },
+    {
+      "name": "Burundi",
+      "code": "BI",
+      "callingCode": "+257",
+      "flag": "https://flagcdn.com/bi.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "BIF",
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Burundian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "BDI"
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "callingCode": "+855",
+      "flag": "https://flagcdn.com/kh.svg",
+      "language": {
+        "iso639_1": "km",
+        "iso639_2": "khm",
+        "name": "Khmer",
+        "nativeName": "ខ្មែរ"
+      },
+      "currency": {
+        "code": "KHR",
+        "name": "Cambodian riel",
+        "symbol": "៛"
+      },
+      "nationality": "Cambodian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "KHM"
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "callingCode": "+237",
+      "flag": "https://flagcdn.com/cm.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Cameroonian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "CMR"
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/ca.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "CAD",
+        "name": "Canadian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Canadian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "CAN"
+    },
+    {
+      "name": "Cabo Verde",
+      "code": "CV",
+      "callingCode": "+238",
+      "flag": "https://flagcdn.com/cv.svg",
+      "language": {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      },
+      "currency": {
+        "code": "CVE",
+        "name": "Cape Verdean escudo",
+        "symbol": "Esc"
+      },
+      "nationality": "Cabo Verdean",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "CPV"
+    },
+    {
+      "name": "Cayman Islands",
+      "code": "KY",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/ky.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "KYD",
+        "name": "Cayman Islands dollar",
+        "symbol": "$"
+      },
+      "nationality": "Caymanian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "CYM"
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF",
+      "callingCode": "+236",
+      "flag": "https://flagcdn.com/cf.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Central African",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "CAF"
+    },
+    {
+      "name": "Chad",
+      "code": "TD",
+      "callingCode": "+235",
+      "flag": "https://flagcdn.com/td.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Chadian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "TCD"
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "callingCode": "+56",
+      "flag": "https://flagcdn.com/cl.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "CLP",
+        "name": "Chilean peso",
+        "symbol": "$"
+      },
+      "nationality": "Chilean",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "CHL"
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "callingCode": "+86",
+      "flag": "https://flagcdn.com/cn.svg",
+      "language": {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      },
+      "currency": {
+        "code": "CNY",
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      },
+      "nationality": "Chinese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "CHN"
+    },
+    {
+      "name": "Christmas Island",
+      "code": "CX",
+      "callingCode": "+61",
+      "flag": "https://flagcdn.com/cx.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Christmas Island",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "CXR"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "code": "CC",
+      "callingCode": "+61",
+      "flag": "https://flagcdn.com/cc.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Cocos Island",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "CCK"
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "callingCode": "+57",
+      "flag": "https://flagcdn.com/co.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "COP",
+        "name": "Colombian peso",
+        "symbol": "$"
+      },
+      "nationality": "Colombian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "COL"
+    },
+    {
+      "name": "Comoros",
+      "code": "KM",
+      "callingCode": "+269",
+      "flag": "https://flagcdn.com/km.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "KMF",
+        "name": "Comorian franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Comoran, Comorian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "COM"
+    },
+    {
+      "name": "Congo",
+      "code": "CG",
+      "callingCode": "+242",
+      "flag": "https://flagcdn.com/cg.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Congolese",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "COG"
+    },
+    {
+      "name": "Congo (Democratic Republic of the)",
+      "code": "CD",
+      "callingCode": "+243",
+      "flag": "https://flagcdn.com/cd.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "CDF",
+        "name": "Congolese franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Congolese",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "COD"
+    },
+    {
+      "name": "Cook Islands",
+      "code": "CK",
+      "callingCode": "+682",
+      "flag": "https://flagcdn.com/ck.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      "nationality": "Cook Island",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "COK"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR",
+      "callingCode": "+506",
+      "flag": "https://flagcdn.com/cr.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "CRC",
+        "name": "Costa Rican colón",
+        "symbol": "₡"
+      },
+      "nationality": "Costa Rican",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "CRI"
+    },
+    {
+      "name": "Croatia",
+      "code": "HR",
+      "callingCode": "+385",
+      "flag": "https://flagcdn.com/hr.svg",
+      "language": {
+        "iso639_1": "hr",
+        "iso639_2": "hrv",
+        "name": "Croatian",
+        "nativeName": "hrvatski jezik"
+      },
+      "currency": {
+        "code": "HRK",
+        "name": "Croatian kuna",
+        "symbol": "kn"
+      },
+      "nationality": "Croatian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "HRV"
+    },
+    {
+      "name": "Cuba",
+      "code": "CU",
+      "callingCode": "+53",
+      "flag": "https://flagcdn.com/cu.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "CUC",
+        "name": "Cuban convertible peso",
+        "symbol": "$"
+      },
+      "nationality": "Cuban",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "CUB"
+    },
+    {
+      "name": "Curaçao",
+      "code": "CW",
+      "callingCode": "+599",
+      "flag": "https://flagcdn.com/cw.svg",
+      "language": {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      "currency": {
+        "code": "ANG",
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      },
+      "nationality": "Curaçaoan",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "CUW"
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "callingCode": "+357",
+      "flag": "https://flagcdn.com/cy.svg",
+      "language": {
+        "iso639_1": "el",
+        "iso639_2": "ell",
+        "name": "Greek (modern)",
+        "nativeName": "ελληνικά"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Cypriot",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "CYP"
+    },
+    {
+      "name": "Czech Republic",
+      "code": "CZ",
+      "callingCode": "+420",
+      "flag": "https://flagcdn.com/cz.svg",
+      "language": {
+        "iso639_1": "cs",
+        "iso639_2": "ces",
+        "name": "Czech",
+        "nativeName": "čeština"
+      },
+      "currency": {
+        "code": "CZK",
+        "name": "Czech koruna",
+        "symbol": "Kč"
+      },
+      "nationality": "Czech",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "CZE"
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "callingCode": "+45",
+      "flag": "https://flagcdn.com/dk.svg",
+      "language": {
+        "iso639_1": "da",
+        "iso639_2": "dan",
+        "name": "Danish",
+        "nativeName": "dansk"
+      },
+      "currency": {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      },
+      "nationality": "Danish",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "DNK"
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ",
+      "callingCode": "+253",
+      "flag": "https://flagcdn.com/dj.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "DJF",
+        "name": "Djiboutian franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Djiboutian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "DJI"
+    },
+    {
+      "name": "Dominica",
+      "code": "DM",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/dm.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      },
+      "nationality": "Dominican",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "DMA"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/do.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "DOP",
+        "name": "Dominican peso",
+        "symbol": "$"
+      },
+      "nationality": "Dominican",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "DOM"
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC",
+      "callingCode": "+593",
+      "flag": "https://flagcdn.com/ec.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "Ecuadorian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "ECU"
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "callingCode": "+20",
+      "flag": "https://flagcdn.com/eg.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "£"
+      },
+      "nationality": "Egyptian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "EGY"
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV",
+      "callingCode": "+503",
+      "flag": "https://flagcdn.com/sv.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "Salvadoran",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "SLV"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "callingCode": "+240",
+      "flag": "https://flagcdn.com/gq.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Equatorial Guinean, Equatoguinean",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "GNQ"
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER",
+      "callingCode": "+291",
+      "flag": "https://flagcdn.com/er.svg",
+      "language": {
+        "iso639_1": "ti",
+        "iso639_2": "tir",
+        "name": "Tigrinya",
+        "nativeName": "ትግርኛ"
+      },
+      "currency": {
+        "code": "ERN",
+        "name": "Eritrean nakfa",
+        "symbol": "Nfk"
+      },
+      "nationality": "Eritrean",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "ERI"
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "callingCode": "+372",
+      "flag": "https://flagcdn.com/ee.svg",
+      "language": {
+        "iso639_1": "et",
+        "iso639_2": "est",
+        "name": "Estonian",
+        "nativeName": "eesti"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Estonian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "EST"
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET",
+      "callingCode": "+251",
+      "flag": "https://flagcdn.com/et.svg",
+      "language": {
+        "iso639_1": "am",
+        "iso639_2": "amh",
+        "name": "Amharic",
+        "nativeName": "አማርኛ"
+      },
+      "currency": {
+        "code": "ETB",
+        "name": "Ethiopian birr",
+        "symbol": "Br"
+      },
+      "nationality": "Ethiopian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "ETH"
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "code": "FK",
+      "callingCode": "+500",
+      "flag": "https://flagcdn.com/fk.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "FKP",
+        "name": "Falkland Islands pound",
+        "symbol": "£"
+      },
+      "nationality": "Falkland Island",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "FLK"
+    },
+    {
+      "name": "Faroe Islands",
+      "code": "FO",
+      "callingCode": "+298",
+      "flag": "https://flagcdn.com/fo.svg",
+      "language": {
+        "iso639_1": "fo",
+        "iso639_2": "fao",
+        "name": "Faroese",
+        "nativeName": "føroyskt"
+      },
+      "currency": {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      },
+      "nationality": "Faroese",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "FRO"
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "callingCode": "+679",
+      "flag": "https://flagcdn.com/fj.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "FJD",
+        "name": "Fijian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Fijian",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "FJI"
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "callingCode": "+358",
+      "flag": "https://flagcdn.com/fi.svg",
+      "language": {
+        "iso639_1": "fi",
+        "iso639_2": "fin",
+        "name": "Finnish",
+        "nativeName": "suomi"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Finnish",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "FIN"
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "callingCode": "+33",
+      "flag": "https://flagcdn.com/fr.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "French",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "FRA"
+    },
+    {
+      "name": "French Guiana",
+      "code": "GF",
+      "callingCode": "+594",
+      "flag": "https://flagcdn.com/gf.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "French Guianese",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "GUF"
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF",
+      "callingCode": "+689",
+      "flag": "https://flagcdn.com/pf.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "Fr"
+      },
+      "nationality": "French Polynesian",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "PYF"
+    },
+    {
+      "name": "French Southern Territories",
+      "code": "TF",
+      "callingCode": "+262",
+      "flag": "https://flagcdn.com/tf.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "French Southern Territories",
+      "continent": "Indian Ocean",
+      "alpha3Code": "ATF"
+    },
+    {
+      "name": "Gabon",
+      "code": "GA",
+      "callingCode": "+241",
+      "flag": "https://flagcdn.com/ga.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Gabonese",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "GAB"
+    },
+    {
+      "name": "Gambia",
+      "code": "GM",
+      "callingCode": "+220",
+      "flag": "https://flagcdn.com/gm.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "GMD",
+        "name": "Gambian dalasi",
+        "symbol": "D"
+      },
+      "nationality": "Gambian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "GMB"
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "callingCode": "+995",
+      "flag": "https://flagcdn.com/ge.svg",
+      "language": {
+        "iso639_1": "ka",
+        "iso639_2": "kat",
+        "name": "Georgian",
+        "nativeName": "ქართული"
+      },
+      "currency": {
+        "code": "GEL",
+        "name": "Georgian Lari",
+        "symbol": "ლ"
+      },
+      "nationality": "Georgian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "GEO"
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "callingCode": "+49",
+      "flag": "https://flagcdn.com/de.svg",
+      "language": {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "German",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "DEU"
+    },
+    {
+      "name": "Ghana",
+      "code": "GH",
+      "callingCode": "+233",
+      "flag": "https://flagcdn.com/gh.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "GHS",
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      },
+      "nationality": "Ghanaian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "GHA"
+    },
+    {
+      "name": "Gibraltar",
+      "code": "GI",
+      "callingCode": "+350",
+      "flag": "https://flagcdn.com/gi.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "GIP",
+        "name": "Gibraltar pound",
+        "symbol": "£"
+      },
+      "nationality": "Gibraltar",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "GIB"
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "callingCode": "+30",
+      "flag": "https://flagcdn.com/gr.svg",
+      "language": {
+        "iso639_1": "el",
+        "iso639_2": "ell",
+        "name": "Greek (modern)",
+        "nativeName": "ελληνικά"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Greek, Hellenic",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "GRC"
+    },
+    {
+      "name": "Greenland",
+      "code": "GL",
+      "callingCode": "+299",
+      "flag": "https://flagcdn.com/gl.svg",
+      "language": {
+        "iso639_1": "kl",
+        "iso639_2": "kal",
+        "name": "Kalaallisut",
+        "nativeName": "kalaallisut"
+      },
+      "currency": {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      },
+      "nationality": "Greenlandic",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "GRL"
+    },
+    {
+      "name": "Grenada",
+      "code": "GD",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/gd.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      },
+      "nationality": "Grenadian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "GRD"
+    },
+    {
+      "name": "Guadeloupe",
+      "code": "GP",
+      "callingCode": "+590",
+      "flag": "https://flagcdn.com/gp.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Guadeloupe",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "GLP"
+    },
+    {
+      "name": "Guam",
+      "code": "GU",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/gu.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "Guamanian, Guambat",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "GUM"
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT",
+      "callingCode": "+502",
+      "flag": "https://flagcdn.com/gt.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "GTQ",
+        "name": "Guatemalan quetzal",
+        "symbol": "Q"
+      },
+      "nationality": "Guatemalan",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "GTM"
+    },
+    {
+      "name": "Guernsey",
+      "code": "GG",
+      "callingCode": "+44",
+      "flag": "https://flagcdn.com/gg.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      "nationality": "Channel Island",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "GGY"
+    },
+    {
+      "name": "Guinea",
+      "code": "GN",
+      "callingCode": "+224",
+      "flag": "https://flagcdn.com/gn.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "GNF",
+        "name": "Guinean franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Guinean",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "GIN"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "callingCode": "+245",
+      "flag": "https://flagcdn.com/gw.svg",
+      "language": {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      },
+      "currency": {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Bissau-Guinean",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "GNB"
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "callingCode": "+592",
+      "flag": "https://flagcdn.com/gy.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "GYD",
+        "name": "Guyanese dollar",
+        "symbol": "$"
+      },
+      "nationality": "Guyanese",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "GUY"
+    },
+    {
+      "name": "Haiti",
+      "code": "HT",
+      "callingCode": "+509",
+      "flag": "https://flagcdn.com/ht.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "HTG",
+        "name": "Haitian gourde",
+        "symbol": "G"
+      },
+      "nationality": "Haitian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "HTI"
+    },
+    {
+      "name": "Heard Island and McDonald Islands",
+      "code": "HM",
+      "callingCode": "+672",
+      "flag": "https://flagcdn.com/hm.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Heard Island or McDonald Islands",
+      "continent": "Indian Ocean",
+      "alpha3Code": "HMD"
+    },
+    {
+      "name": "Vatican City",
+      "code": "VA",
+      "callingCode": "+379",
+      "flag": "https://flagcdn.com/va.svg",
+      "language": {
+        "iso639_1": "la",
+        "iso639_2": "lat",
+        "name": "Latin",
+        "nativeName": "latine"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Vatican",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "VAT"
+    },
+    {
+      "name": "Honduras",
+      "code": "HN",
+      "callingCode": "+504",
+      "flag": "https://flagcdn.com/hn.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "HNL",
+        "name": "Honduran lempira",
+        "symbol": "L"
+      },
+      "nationality": "Honduran",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "HND"
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "callingCode": "+36",
+      "flag": "https://flagcdn.com/hu.svg",
+      "language": {
+        "iso639_1": "hu",
+        "iso639_2": "hun",
+        "name": "Hungarian",
+        "nativeName": "magyar"
+      },
+      "currency": {
+        "code": "HUF",
+        "name": "Hungarian forint",
+        "symbol": "Ft"
+      },
+      "nationality": "Hungarian, Magyar",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "HUN"
+    },
+    {
+      "name": "Hong Kong",
+      "code": "HK",
+      "callingCode": "+852",
+      "flag": "https://flagcdn.com/hk.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "HKD",
+        "name": "Hong Kong dollar",
+        "symbol": "$"
+      },
+      "nationality": "Hong Kong, Hong Kongese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "HKG"
+    },
+    {
+      "name": "Iceland",
+      "code": "IS",
+      "callingCode": "+354",
+      "flag": "https://flagcdn.com/is.svg",
+      "language": {
+        "iso639_1": "is",
+        "iso639_2": "isl",
+        "name": "Icelandic",
+        "nativeName": "Íslenska"
+      },
+      "currency": {
+        "code": "ISK",
+        "name": "Icelandic króna",
+        "symbol": "kr"
+      },
+      "nationality": "Icelandic",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "ISL"
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "callingCode": "+91",
+      "flag": "https://flagcdn.com/in.svg",
+      "language": {
+        "iso639_1": "hi",
+        "iso639_2": "hin",
+        "name": "Hindi",
+        "nativeName": "हिन्दी"
+      },
+      "currency": {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      },
+      "nationality": "Indian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "IND"
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "callingCode": "+62",
+      "flag": "https://flagcdn.com/id.svg",
+      "language": {
+        "iso639_1": "id",
+        "iso639_2": "ind",
+        "name": "Indonesian",
+        "nativeName": "Bahasa Indonesia"
+      },
+      "currency": {
+        "code": "IDR",
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      },
+      "nationality": "Indonesian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "IDN"
+    },
+    {
+      "name": "Ivory Coast",
+      "code": "CI",
+      "callingCode": "+225",
+      "flag": "https://flagcdn.com/ci.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Ivorian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "CIV"
+    },
+    {
+      "name": "Iran (Islamic Republic of)",
+      "code": "IR",
+      "callingCode": "+98",
+      "flag": "https://flagcdn.com/ir.svg",
+      "language": {
+        "iso639_1": "fa",
+        "iso639_2": "fas",
+        "name": "Persian (Farsi)",
+        "nativeName": "فارسی"
+      },
+      "currency": {
+        "code": "IRR",
+        "name": "Iranian rial",
+        "symbol": "﷼"
+      },
+      "nationality": "Iranian, Persian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "IRN"
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ",
+      "callingCode": "+964",
+      "flag": "https://flagcdn.com/iq.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "IQD",
+        "name": "Iraqi dinar",
+        "symbol": "ع.د"
+      },
+      "nationality": "Iraqi",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "IRQ"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "callingCode": "+353",
+      "flag": "https://flagcdn.com/ie.svg",
+      "language": {
+        "iso639_1": "ga",
+        "iso639_2": "gle",
+        "name": "Irish",
+        "nativeName": "Gaeilge"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Irish",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "IRL"
+    },
+    {
+      "name": "Isle of Man",
+      "code": "IM",
+      "callingCode": "+44",
+      "flag": "https://flagcdn.com/im.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      "nationality": "Manx",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "IMN"
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "callingCode": "+972",
+      "flag": "https://flagcdn.com/il.svg",
+      "language": {
+        "iso639_1": "he",
+        "iso639_2": "heb",
+        "name": "Hebrew (modern)",
+        "nativeName": "עברית"
+      },
+      "currency": {
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      },
+      "nationality": "Israeli",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "ISR"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "callingCode": "+39",
+      "flag": "https://flagcdn.com/it.svg",
+      "language": {
+        "iso639_1": "it",
+        "iso639_2": "ita",
+        "name": "Italian",
+        "nativeName": "Italiano"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Italian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "ITA"
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/jm.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "JMD",
+        "name": "Jamaican dollar",
+        "symbol": "$"
+      },
+      "nationality": "Jamaican",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "JAM"
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "callingCode": "+81",
+      "flag": "https://flagcdn.com/jp.svg",
+      "language": {
+        "iso639_1": "ja",
+        "iso639_2": "jpn",
+        "name": "Japanese",
+        "nativeName": "日本語 (にほんご)"
+      },
+      "currency": {
+        "code": "JPY",
+        "name": "Japanese yen",
+        "symbol": "¥"
+      },
+      "nationality": "Japanese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "JPN"
+    },
+    {
+      "name": "Jersey",
+      "code": "JE",
+      "callingCode": "+44",
+      "flag": "https://flagcdn.com/je.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      "nationality": "Channel Island",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "JEY"
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "callingCode": "+962",
+      "flag": "https://flagcdn.com/jo.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "JOD",
+        "name": "Jordanian dinar",
+        "symbol": "د.ا"
+      },
+      "nationality": "Jordanian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "JOR"
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "callingCode": "+76",
+      "flag": "https://flagcdn.com/kz.svg",
+      "language": {
+        "iso639_1": "kk",
+        "iso639_2": "kaz",
+        "name": "Kazakh",
+        "nativeName": "қазақ тілі"
+      },
+      "currency": {
+        "code": "KZT",
+        "name": "Kazakhstani tenge",
+        "symbol": "₸"
+      },
+      "nationality": "Kazakhstani, Kazakh",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "KAZ"
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "callingCode": "+254",
+      "flag": "https://flagcdn.com/ke.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "KES",
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      },
+      "nationality": "Kenyan",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "KEN"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "callingCode": "+686",
+      "flag": "https://flagcdn.com/ki.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "nationality": "I-Kiribati",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "KIR"
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW",
+      "callingCode": "+965",
+      "flag": "https://flagcdn.com/kw.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "KWD",
+        "name": "Kuwaiti dinar",
+        "symbol": "د.ك"
+      },
+      "nationality": "Kuwaiti",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "KWT"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "callingCode": "+996",
+      "flag": "https://flagcdn.com/kg.svg",
+      "language": {
+        "iso639_1": "ky",
+        "iso639_2": "kir",
+        "name": "Kyrgyz",
+        "nativeName": "Кыргызча"
+      },
+      "currency": {
+        "code": "KGS",
+        "name": "Kyrgyzstani som",
+        "symbol": "с"
+      },
+      "nationality": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "KGZ"
+    },
+    {
+      "name": "Lao People's Democratic Republic",
+      "code": "LA",
+      "callingCode": "+856",
+      "flag": "https://flagcdn.com/la.svg",
+      "language": {
+        "iso639_1": "lo",
+        "iso639_2": "lao",
+        "name": "Lao",
+        "nativeName": "ພາສາລາວ"
+      },
+      "currency": {
+        "code": "LAK",
+        "name": "Lao kip",
+        "symbol": "₭"
+      },
+      "nationality": "Lao, Laotian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "LAO"
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "callingCode": "+371",
+      "flag": "https://flagcdn.com/lv.svg",
+      "language": {
+        "iso639_1": "lv",
+        "iso639_2": "lav",
+        "name": "Latvian",
+        "nativeName": "latviešu valoda"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Latvian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "LVA"
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB",
+      "callingCode": "+961",
+      "flag": "https://flagcdn.com/lb.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "LBP",
+        "name": "Lebanese pound",
+        "symbol": "ل.ل"
+      },
+      "nationality": "Lebanese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "LBN"
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS",
+      "callingCode": "+266",
+      "flag": "https://flagcdn.com/ls.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "LSL",
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      "nationality": "Basotho",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "LSO"
+    },
+    {
+      "name": "Liberia",
+      "code": "LR",
+      "callingCode": "+231",
+      "flag": "https://flagcdn.com/lr.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "LRD",
+        "name": "Liberian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Liberian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "LBR"
+    },
+    {
+      "name": "Libya",
+      "code": "LY",
+      "callingCode": "+218",
+      "flag": "https://flagcdn.com/ly.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "LYD",
+        "name": "Libyan dinar",
+        "symbol": "ل.د"
+      },
+      "nationality": "Libyan",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "LBY"
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI",
+      "callingCode": "+423",
+      "flag": "https://flagcdn.com/li.svg",
+      "language": {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      },
+      "currency": {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Liechtenstein",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "LIE"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "callingCode": "+370",
+      "flag": "https://flagcdn.com/lt.svg",
+      "language": {
+        "iso639_1": "lt",
+        "iso639_2": "lit",
+        "name": "Lithuanian",
+        "nativeName": "lietuvių kalba"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Lithuanian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "LTU"
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU",
+      "callingCode": "+352",
+      "flag": "https://flagcdn.com/lu.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Luxembourg, Luxembourgish",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "LUX"
+    },
+    {
+      "name": "Macao",
+      "code": "MO",
+      "callingCode": "+853",
+      "flag": "https://flagcdn.com/mo.svg",
+      "language": {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      },
+      "currency": {
+        "code": "MOP",
+        "name": "Macanese pataca",
+        "symbol": "P"
+      },
+      "nationality": "Macanese, Chinese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "MAC"
+    },
+    {
+      "name": "North Macedonia",
+      "code": "MK",
+      "callingCode": "+389",
+      "flag": "https://flagcdn.com/mk.svg",
+      "language": {
+        "iso639_1": "mk",
+        "iso639_2": "mkd",
+        "name": "Macedonian",
+        "nativeName": "македонски јазик"
+      },
+      "currency": {
+        "code": "MKD",
+        "name": "Macedonian denar",
+        "symbol": "ден"
+      },
+      "nationality": "Macedonian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "MKD"
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG",
+      "callingCode": "+261",
+      "flag": "https://flagcdn.com/mg.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "MGA",
+        "name": "Malagasy ariary",
+        "symbol": "Ar"
+      },
+      "nationality": "Malagasy",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "MDG"
+    },
+    {
+      "name": "Malawi",
+      "code": "MW",
+      "callingCode": "+265",
+      "flag": "https://flagcdn.com/mw.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "MWK",
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      },
+      "nationality": "Malawian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "MWI"
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "callingCode": "+60",
+      "flag": "https://flagcdn.com/my.svg",
+      "language": {
+        "iso639_1": "ms",
+        "iso639_2": "zsm",
+        "name": "Malaysian",
+        "nativeName": "بهاس مليسيا"
+      },
+      "currency": {
+        "code": "MYR",
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      },
+      "nationality": "Malaysian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "MYS"
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "callingCode": "+960",
+      "flag": "https://flagcdn.com/mv.svg",
+      "language": {
+        "iso639_1": "dv",
+        "iso639_2": "div",
+        "name": "Divehi",
+        "nativeName": "ދިވެހި"
+      },
+      "currency": {
+        "code": "MVR",
+        "name": "Maldivian rufiyaa",
+        "symbol": ".ރ"
+      },
+      "nationality": "Maldivian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "MDV"
+    },
+    {
+      "name": "Mali",
+      "code": "ML",
+      "callingCode": "+223",
+      "flag": "https://flagcdn.com/ml.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Malian, Malinese",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "MLI"
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "callingCode": "+356",
+      "flag": "https://flagcdn.com/mt.svg",
+      "language": {
+        "iso639_1": "mt",
+        "iso639_2": "mlt",
+        "name": "Maltese",
+        "nativeName": "Malti"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Maltese",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "MLT"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "callingCode": "+692",
+      "flag": "https://flagcdn.com/mh.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "Marshallese",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "MHL"
+    },
+    {
+      "name": "Martinique",
+      "code": "MQ",
+      "callingCode": "+596",
+      "flag": "https://flagcdn.com/mq.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Martiniquais, Martinican",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "MTQ"
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR",
+      "callingCode": "+222",
+      "flag": "https://flagcdn.com/mr.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "MRO",
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      },
+      "nationality": "Mauritanian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "MRT"
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU",
+      "callingCode": "+230",
+      "flag": "https://flagcdn.com/mu.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "MUR",
+        "name": "Mauritian rupee",
+        "symbol": "₨"
+      },
+      "nationality": "Mauritian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "MUS"
+    },
+    {
+      "name": "Mayotte",
+      "code": "YT",
+      "callingCode": "+262",
+      "flag": "https://flagcdn.com/yt.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Mahoran",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "MYT"
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "callingCode": "+52",
+      "flag": "https://flagcdn.com/mx.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "MXN",
+        "name": "Mexican peso",
+        "symbol": "$"
+      },
+      "nationality": "Mexican",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "MEX"
+    },
+    {
+      "name": "Micronesia (Federated States of)",
+      "code": "FM",
+      "callingCode": "+691",
+      "flag": "https://flagcdn.com/fm.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "Micronesian",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "FSM"
+    },
+    {
+      "name": "Moldova (Republic of)",
+      "code": "MD",
+      "callingCode": "+373",
+      "flag": "https://flagcdn.com/md.svg",
+      "language": {
+        "iso639_1": "ro",
+        "iso639_2": "ron",
+        "name": "Romanian",
+        "nativeName": "Română"
+      },
+      "currency": {
+        "code": "MDL",
+        "name": "Moldovan leu",
+        "symbol": "L"
+      },
+      "nationality": "Moldovan",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "MDA"
+    },
+    {
+      "name": "Monaco",
+      "code": "MC",
+      "callingCode": "+377",
+      "flag": "https://flagcdn.com/mc.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Monégasque, Monacan",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "MCO"
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN",
+      "callingCode": "+976",
+      "flag": "https://flagcdn.com/mn.svg",
+      "language": {
+        "iso639_1": "mn",
+        "iso639_2": "mon",
+        "name": "Mongolian",
+        "nativeName": "Монгол хэл"
+      },
+      "currency": {
+        "code": "MNT",
+        "name": "Mongolian tögrög",
+        "symbol": "₮"
+      },
+      "nationality": "Mongolian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "MNG"
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "callingCode": "+382",
+      "flag": "https://flagcdn.com/me.svg",
+      "language": {
+        "iso639_1": "sr",
+        "iso639_2": "srp",
+        "name": "Serbian",
+        "nativeName": "српски језик"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Montenegrin",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "MNE"
+    },
+    {
+      "name": "Montserrat",
+      "code": "MS",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/ms.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      },
+      "nationality": "Montserratian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "MSR"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "callingCode": "+212",
+      "flag": "https://flagcdn.com/ma.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      },
+      "nationality": "Moroccan",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "MAR"
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ",
+      "callingCode": "+258",
+      "flag": "https://flagcdn.com/mz.svg",
+      "language": {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      },
+      "currency": {
+        "code": "MZN",
+        "name": "Mozambican metical",
+        "symbol": "MT"
+      },
+      "nationality": "Mozambican",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "MOZ"
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM",
+      "callingCode": "+95",
+      "flag": "https://flagcdn.com/mm.svg",
+      "language": {
+        "iso639_1": "my",
+        "iso639_2": "mya",
+        "name": "Burmese",
+        "nativeName": "ဗမာစာ"
+      },
+      "currency": {
+        "code": "MMK",
+        "name": "Burmese kyat",
+        "symbol": "Ks"
+      },
+      "nationality": "Burmese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "MMR"
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "callingCode": "+264",
+      "flag": "https://flagcdn.com/na.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "NAD",
+        "name": "Namibian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Namibian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "NAM"
+    },
+    {
+      "name": "Nauru",
+      "code": "NR",
+      "callingCode": "+674",
+      "flag": "https://flagcdn.com/nr.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Nauruan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "NRU"
+    },
+    {
+      "name": "Nepal",
+      "code": "NP",
+      "callingCode": "+977",
+      "flag": "https://flagcdn.com/np.svg",
+      "language": {
+        "iso639_1": "ne",
+        "iso639_2": "nep",
+        "name": "Nepali",
+        "nativeName": "नेपाली"
+      },
+      "currency": {
+        "code": "NPR",
+        "name": "Nepalese rupee",
+        "symbol": "₨"
+      },
+      "nationality": "Nepali, Nepalese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "NPL"
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "callingCode": "+31",
+      "flag": "https://flagcdn.com/nl.svg",
+      "language": {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Dutch, Netherlandic",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "NLD"
+    },
+    {
+      "name": "New Caledonia",
+      "code": "NC",
+      "callingCode": "+687",
+      "flag": "https://flagcdn.com/nc.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "Fr"
+      },
+      "nationality": "New Caledonian",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "NCL"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "callingCode": "+64",
+      "flag": "https://flagcdn.com/nz.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      "nationality": "New Zealand, NZ",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "NZL"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI",
+      "callingCode": "+505",
+      "flag": "https://flagcdn.com/ni.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "NIO",
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      },
+      "nationality": "Nicaraguan",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "NIC"
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
+      "callingCode": "+227",
+      "flag": "https://flagcdn.com/ne.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Nigerien",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "NER"
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "callingCode": "+234",
+      "flag": "https://flagcdn.com/ng.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "NGN",
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      },
+      "nationality": "Nigerian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "NGA"
+    },
+    {
+      "name": "Niue",
+      "code": "NU",
+      "callingCode": "+683",
+      "flag": "https://flagcdn.com/nu.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      "nationality": "Niuean",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "NIU"
+    },
+    {
+      "name": "Norfolk Island",
+      "code": "NF",
+      "callingCode": "+672",
+      "flag": "https://flagcdn.com/nf.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Norfolk Island",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "NFK"
+    },
+    {
+      "name": "Korea (Democratic People's Republic of)",
+      "code": "KP",
+      "callingCode": "+850",
+      "flag": "https://flagcdn.com/kp.svg",
+      "language": {
+        "iso639_1": "ko",
+        "iso639_2": "kor",
+        "name": "Korean",
+        "nativeName": "한국어"
+      },
+      "currency": {
+        "code": "KPW",
+        "name": "North Korean won",
+        "symbol": "₩"
+      },
+      "nationality": "North Korean",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "PRK"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "code": "MP",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/mp.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "Northern Marianan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "MNP"
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "callingCode": "+47",
+      "flag": "https://flagcdn.com/no.svg",
+      "language": {
+        "iso639_1": "no",
+        "iso639_2": "nor",
+        "name": "Norwegian",
+        "nativeName": "Norsk"
+      },
+      "currency": {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      },
+      "nationality": "Norwegian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "NOR"
+    },
+    {
+      "name": "Oman",
+      "code": "OM",
+      "callingCode": "+968",
+      "flag": "https://flagcdn.com/om.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "OMR",
+        "name": "Omani rial",
+        "symbol": "ر.ع."
+      },
+      "nationality": "Omani",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "OMN"
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "callingCode": "+92",
+      "flag": "https://flagcdn.com/pk.svg",
+      "language": {
+        "iso639_1": "ur",
+        "iso639_2": "urd",
+        "name": "Urdu",
+        "nativeName": "اردو"
+      },
+      "currency": {
+        "code": "PKR",
+        "name": "Pakistani rupee",
+        "symbol": "₨"
+      },
+      "nationality": "Pakistani",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "PAK"
+    },
+    {
+      "name": "Palau",
+      "code": "PW",
+      "callingCode": "+680",
+      "flag": "https://flagcdn.com/pw.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "Palauan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "PLW"
+    },
+    {
+      "name": "Palestine, State of",
+      "code": "PS",
+      "callingCode": "+970",
+      "flag": "https://flagcdn.com/ps.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "E£"
+      },
+      "nationality": "Palestinian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "PSE"
+    },
+    {
+      "name": "Panama",
+      "code": "PA",
+      "callingCode": "+507",
+      "flag": "https://flagcdn.com/pa.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "PAB",
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      "nationality": "Panamanian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "PAN"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "callingCode": "+675",
+      "flag": "https://flagcdn.com/pg.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "PGK",
+        "name": "Papua New Guinean kina",
+        "symbol": "K"
+      },
+      "nationality": "Papua New Guinean, Papuan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "PNG"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "callingCode": "+595",
+      "flag": "https://flagcdn.com/py.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "PYG",
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      },
+      "nationality": "Paraguayan",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "PRY"
+    },
+    {
+      "name": "Peru",
+      "code": "PE",
+      "callingCode": "+51",
+      "flag": "https://flagcdn.com/pe.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "PEN",
+        "name": "Peruvian sol",
+        "symbol": "S/."
+      },
+      "nationality": "Peruvian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "PER"
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "callingCode": "+63",
+      "flag": "https://flagcdn.com/ph.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "PHP",
+        "name": "Philippine peso",
+        "symbol": "₱"
+      },
+      "nationality": "Philippine, Filipino",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "PHL"
+    },
+    {
+      "name": "Pitcairn",
+      "code": "PN",
+      "callingCode": "+64",
+      "flag": "https://flagcdn.com/pn.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      "nationality": "Pitcairn Island",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "PCN"
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "callingCode": "+48",
+      "flag": "https://flagcdn.com/pl.svg",
+      "language": {
+        "iso639_1": "pl",
+        "iso639_2": "pol",
+        "name": "Polish",
+        "nativeName": "język polski"
+      },
+      "currency": {
+        "code": "PLN",
+        "name": "Polish złoty",
+        "symbol": "zł"
+      },
+      "nationality": "Polish",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "POL"
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "callingCode": "+351",
+      "flag": "https://flagcdn.com/pt.svg",
+      "language": {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Portuguese",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "PRT"
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/pr.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "Puerto Rican",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "PRI"
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "callingCode": "+974",
+      "flag": "https://flagcdn.com/qa.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "QAR",
+        "name": "Qatari riyal",
+        "symbol": "ر.ق"
+      },
+      "nationality": "Qatari",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "QAT"
+    },
+    {
+      "name": "Republic of Kosovo",
+      "code": "XK",
+      "callingCode": "+383",
+      "flag": "https://flagcdn.com/xk.svg",
+      "language": {
+        "iso639_1": "sq",
+        "iso639_2": "sqi",
+        "name": "Albanian",
+        "nativeName": "Shqip"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Kosovan",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "KOS"
+    },
+    {
+      "name": "Réunion",
+      "code": "RE",
+      "callingCode": "+262",
+      "flag": "https://flagcdn.com/re.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Réunionese, Réunionnais",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "REU"
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "callingCode": "+40",
+      "flag": "https://flagcdn.com/ro.svg",
+      "language": {
+        "iso639_1": "ro",
+        "iso639_2": "ron",
+        "name": "Romanian",
+        "nativeName": "Română"
+      },
+      "currency": {
+        "code": "RON",
+        "name": "Romanian leu",
+        "symbol": "lei"
+      },
+      "nationality": "Romanian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "ROU"
+    },
+    {
+      "name": "Russian Federation",
+      "code": "RU",
+      "callingCode": "+7",
+      "flag": "https://flagcdn.com/ru.svg",
+      "language": {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      },
+      "currency": {
+        "code": "RUB",
+        "name": "Russian ruble",
+        "symbol": "₽"
+      },
+      "nationality": "Russian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "RUS"
+    },
+    {
+      "name": "Rwanda",
+      "code": "RW",
+      "callingCode": "+250",
+      "flag": "https://flagcdn.com/rw.svg",
+      "language": {
+        "iso639_1": "rw",
+        "iso639_2": "kin",
+        "name": "Kinyarwanda",
+        "nativeName": "Ikinyarwanda"
+      },
+      "currency": {
+        "code": "RWF",
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Rwandan",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "RWA"
+    },
+    {
+      "name": "Saint Barthélemy",
+      "code": "BL",
+      "callingCode": "+590",
+      "flag": "https://flagcdn.com/bl.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Barthélemois",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "BLM"
+    },
+    {
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "code": "SH",
+      "callingCode": "+290",
+      "flag": "https://flagcdn.com/sh.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "SHP",
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      },
+      "nationality": "Saint Helenian",
+      "continent": "Atlantic Ocean",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "SHN"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/kn.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      },
+      "nationality": "Kittitian or Nevisian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "KNA"
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/lc.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      },
+      "nationality": "Saint Lucian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "LCA"
+    },
+    {
+      "name": "Saint Martin (French part)",
+      "code": "MF",
+      "callingCode": "+590",
+      "flag": "https://flagcdn.com/mf.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Saint-Martinoise",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "MAF"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "code": "PM",
+      "callingCode": "+508",
+      "flag": "https://flagcdn.com/pm.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Saint-Pierrais or Miquelonnais",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "SPM"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/vc.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "XCD",
+        "name": "East Caribbean dollar",
+        "symbol": "$"
+      },
+      "nationality": "Saint Vincentian, Vincentian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "VCT"
+    },
+    {
+      "name": "Samoa",
+      "code": "WS",
+      "callingCode": "+685",
+      "flag": "https://flagcdn.com/ws.svg",
+      "language": {
+        "iso639_1": "sm",
+        "iso639_2": "smo",
+        "name": "Samoan",
+        "nativeName": "gagana fa'a Samoa"
+      },
+      "currency": {
+        "code": "WST",
+        "name": "Samoan tālā",
+        "symbol": "T"
+      },
+      "nationality": "Samoan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "WSM"
+    },
+    {
+      "name": "San Marino",
+      "code": "SM",
+      "callingCode": "+378",
+      "flag": "https://flagcdn.com/sm.svg",
+      "language": {
+        "iso639_1": "it",
+        "iso639_2": "ita",
+        "name": "Italian",
+        "nativeName": "Italiano"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Sammarinese",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "SMR"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "code": "ST",
+      "callingCode": "+239",
+      "flag": "https://flagcdn.com/st.svg",
+      "language": {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      },
+      "currency": {
+        "code": "STD",
+        "name": "São Tomé and Príncipe dobra",
+        "symbol": "Db"
+      },
+      "nationality": "São Toméan",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "STP"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "callingCode": "+966",
+      "flag": "https://flagcdn.com/sa.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "SAR",
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      },
+      "nationality": "Saudi, Saudi Arabian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "SAU"
+    },
+    {
+      "name": "Senegal",
+      "code": "SN",
+      "callingCode": "+221",
+      "flag": "https://flagcdn.com/sn.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Senegalese",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "SEN"
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "callingCode": "+381",
+      "flag": "https://flagcdn.com/rs.svg",
+      "language": {
+        "iso639_1": "sr",
+        "iso639_2": "srp",
+        "name": "Serbian",
+        "nativeName": "српски језик"
+      },
+      "currency": {
+        "code": "RSD",
+        "name": "Serbian dinar",
+        "symbol": "дин."
+      },
+      "nationality": "Serbian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "SRB"
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC",
+      "callingCode": "+248",
+      "flag": "https://flagcdn.com/sc.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "SCR",
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      },
+      "nationality": "Seychellois",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "SYC"
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "callingCode": "+232",
+      "flag": "https://flagcdn.com/sl.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "SLL",
+        "name": "Sierra Leonean leone",
+        "symbol": "Le"
+      },
+      "nationality": "Sierra Leonean",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "SLE"
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "callingCode": "+65",
+      "flag": "https://flagcdn.com/sg.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "BND",
+        "name": "Brunei dollar",
+        "symbol": "$"
+      },
+      "nationality": "Singaporean",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "SGP"
+    },
+    {
+      "name": "Sint Maarten (Dutch part)",
+      "code": "SX",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/sx.svg",
+      "language": {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      "currency": {
+        "code": "ANG",
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      },
+      "nationality": "Sint Maarten",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "SXM"
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK",
+      "callingCode": "+421",
+      "flag": "https://flagcdn.com/sk.svg",
+      "language": {
+        "iso639_1": "sk",
+        "iso639_2": "slk",
+        "name": "Slovak",
+        "nativeName": "slovenčina"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Slovak",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "SVK"
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI",
+      "callingCode": "+386",
+      "flag": "https://flagcdn.com/si.svg",
+      "language": {
+        "iso639_1": "sl",
+        "iso639_2": "slv",
+        "name": "Slovene",
+        "nativeName": "slovenski jezik"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Slovenian, Slovene",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "SVN"
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "callingCode": "+677",
+      "flag": "https://flagcdn.com/sb.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "SBD",
+        "name": "Solomon Islands dollar",
+        "symbol": "$"
+      },
+      "nationality": "Solomon Island",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "SLB"
+    },
+    {
+      "name": "Somalia",
+      "code": "SO",
+      "callingCode": "+252",
+      "flag": "https://flagcdn.com/so.svg",
+      "language": {
+        "iso639_1": "so",
+        "iso639_2": "som",
+        "name": "Somali",
+        "nativeName": "Soomaaliga"
+      },
+      "currency": {
+        "code": "SOS",
+        "name": "Somali shilling",
+        "symbol": "Sh"
+      },
+      "nationality": "Somali, Somalian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "SOM"
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "callingCode": "+27",
+      "flag": "https://flagcdn.com/za.svg",
+      "language": {
+        "iso639_1": "af",
+        "iso639_2": "afr",
+        "name": "Afrikaans",
+        "nativeName": "Afrikaans"
+      },
+      "currency": {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      },
+      "nationality": "South African",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "ZAF"
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "code": "GS",
+      "callingCode": "+500",
+      "flag": "https://flagcdn.com/gs.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "FKP",
+        "name": "Falkland Islands Pound",
+        "symbol": "£"
+      },
+      "nationality": "South Georgia or South Sandwich Islands",
+      "continent": "Atlantic Ocean",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "SGS"
+    },
+    {
+      "name": "Korea (Republic of)",
+      "code": "KR",
+      "callingCode": "+82",
+      "flag": "https://flagcdn.com/kr.svg",
+      "language": {
+        "iso639_1": "ko",
+        "iso639_2": "kor",
+        "name": "Korean",
+        "nativeName": "한국어"
+      },
+      "currency": {
+        "code": "KRW",
+        "name": "South Korean won",
+        "symbol": "₩"
+      },
+      "nationality": "South Korean",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "KOR"
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "callingCode": "+34",
+      "flag": "https://flagcdn.com/es.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "nationality": "Spanish",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "ESP"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "callingCode": "+94",
+      "flag": "https://flagcdn.com/lk.svg",
+      "language": {
+        "iso639_1": "si",
+        "iso639_2": "sin",
+        "name": "Sinhalese",
+        "nativeName": "සිංහල"
+      },
+      "currency": {
+        "code": "LKR",
+        "name": "Sri Lankan rupee",
+        "symbol": "Rs"
+      },
+      "nationality": "Sri Lankan",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "LKA"
+    },
+    {
+      "name": "Sudan",
+      "code": "SD",
+      "callingCode": "+249",
+      "flag": "https://flagcdn.com/sd.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "SDG",
+        "name": "Sudanese pound",
+        "symbol": "ج.س."
+      },
+      "nationality": "Sudanese",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "SDN"
+    },
+    {
+      "name": "South Sudan",
+      "code": "SS",
+      "callingCode": "+211",
+      "flag": "https://flagcdn.com/ss.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "SSP",
+        "name": "South Sudanese pound",
+        "symbol": "£"
+      },
+      "nationality": "South Sudanese",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "SSD"
+    },
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "callingCode": "+597",
+      "flag": "https://flagcdn.com/sr.svg",
+      "language": {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      "currency": {
+        "code": "SRD",
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      },
+      "nationality": "Surinamese",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "SUR"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "code": "SJ",
+      "callingCode": "+47",
+      "flag": "https://flagcdn.com/sj.svg",
+      "language": {
+        "iso639_1": "no",
+        "iso639_2": "nor",
+        "name": "Norwegian",
+        "nativeName": "Norsk"
+      },
+      "currency": {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      },
+      "nationality": "Svalbard",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "SJM"
+    },
+    {
+      "name": "Swaziland",
+      "code": "SZ",
+      "callingCode": "+268",
+      "flag": "https://flagcdn.com/sz.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "SZL",
+        "name": "Swazi lilangeni",
+        "symbol": "L"
+      },
+      "nationality": "Swazi",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "SWZ"
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "callingCode": "+46",
+      "flag": "https://flagcdn.com/se.svg",
+      "language": {
+        "iso639_1": "sv",
+        "iso639_2": "swe",
+        "name": "Swedish",
+        "nativeName": "svenska"
+      },
+      "currency": {
+        "code": "SEK",
+        "name": "Swedish krona",
+        "symbol": "kr"
+      },
+      "nationality": "Swedish",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "SWE"
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "callingCode": "+41",
+      "flag": "https://flagcdn.com/ch.svg",
+      "language": {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      },
+      "currency": {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Swiss",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "CHE"
+    },
+    {
+      "name": "Syrian Arab Republic",
+      "code": "SY",
+      "callingCode": "+963",
+      "flag": "https://flagcdn.com/sy.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "SYP",
+        "name": "Syrian pound",
+        "symbol": "£"
+      },
+      "nationality": "Syrian",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "SYR"
+    },
+    {
+      "name": "Taiwan",
+      "code": "TW",
+      "callingCode": "+886",
+      "flag": "https://flagcdn.com/tw.svg",
+      "language": {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      },
+      "currency": {
+        "code": "TWD",
+        "name": "New Taiwan dollar",
+        "symbol": "$"
+      },
+      "nationality": "Chinese, Taiwanese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "TWN"
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "callingCode": "+992",
+      "flag": "https://flagcdn.com/tj.svg",
+      "language": {
+        "iso639_1": "tg",
+        "iso639_2": "tgk",
+        "name": "Tajik",
+        "nativeName": "тоҷикӣ"
+      },
+      "currency": {
+        "code": "TJS",
+        "name": "Tajikistani somoni",
+        "symbol": "ЅМ"
+      },
+      "nationality": "Tajikistani",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "TJK"
+    },
+    {
+      "name": "Tanzania, United Republic of",
+      "code": "TZ",
+      "callingCode": "+255",
+      "flag": "https://flagcdn.com/tz.svg",
+      "language": {
+        "iso639_1": "sw",
+        "iso639_2": "swa",
+        "name": "Swahili",
+        "nativeName": "Kiswahili"
+      },
+      "currency": {
+        "code": "TZS",
+        "name": "Tanzanian shilling",
+        "symbol": "Sh"
+      },
+      "nationality": "Tanzanian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "TZA"
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "callingCode": "+66",
+      "flag": "https://flagcdn.com/th.svg",
+      "language": {
+        "iso639_1": "th",
+        "iso639_2": "tha",
+        "name": "Thai",
+        "nativeName": "ไทย"
+      },
+      "currency": {
+        "code": "THB",
+        "name": "Thai baht",
+        "symbol": "฿"
+      },
+      "nationality": "Thai",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "THA"
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "callingCode": "+670",
+      "flag": "https://flagcdn.com/tl.svg",
+      "language": {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      },
+      "currency": {
+        "code": "THB",
+        "name": "Thai baht",
+        "symbol": "฿"
+      },
+      "nationality": "Timorese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "TLS"
+    },
+    {
+      "name": "Togo",
+      "code": "TG",
+      "callingCode": "+228",
+      "flag": "https://flagcdn.com/tg.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Togolese",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "TGO"
+    },
+    {
+      "name": "Tokelau",
+      "code": "TK",
+      "callingCode": "+690",
+      "flag": "https://flagcdn.com/tk.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      },
+      "nationality": "Tokelauan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "TKL"
+    },
+    {
+      "name": "Tonga",
+      "code": "TO",
+      "callingCode": "+676",
+      "flag": "https://flagcdn.com/to.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "TOP",
+        "name": "Tongan paʻanga",
+        "symbol": "T$"
+      },
+      "nationality": "Tongan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "TON"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/tt.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "TTD",
+        "name": "Trinidad and Tobago dollar",
+        "symbol": "$"
+      },
+      "nationality": "Trinidadian or Tobagonian",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "TTO"
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN",
+      "callingCode": "+216",
+      "flag": "https://flagcdn.com/tn.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "TND",
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+      },
+      "nationality": "Tunisian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "TUN"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR",
+      "callingCode": "+90",
+      "flag": "https://flagcdn.com/tr.svg",
+      "language": {
+        "iso639_1": "tr",
+        "iso639_2": "tur",
+        "name": "Turkish",
+        "nativeName": "Türkçe"
+      },
+      "currency": {
+        "code": "TRY",
+        "name": "Turkish lira",
+        "symbol": "֏"
+      },
+      "nationality": "Turkish",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "TUR"
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "callingCode": "+993",
+      "flag": "https://flagcdn.com/tm.svg",
+      "language": {
+        "iso639_1": "tk",
+        "iso639_2": "tuk",
+        "name": "Turkmen",
+        "nativeName": "Türkmen"
+      },
+      "currency": {
+        "code": "TMT",
+        "name": "Turkmenistan manat",
+        "symbol": "m"
+      },
+      "nationality": "Turkmen",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "TKM"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "code": "TC",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/tc.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "Turks and Caicos Island",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "TCA"
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV",
+      "callingCode": "+688",
+      "flag": "https://flagcdn.com/tv.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      "nationality": "Tuvaluan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "TUV"
+    },
+    {
+      "name": "Uganda",
+      "code": "UG",
+      "callingCode": "+256",
+      "flag": "https://flagcdn.com/ug.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "UGX",
+        "name": "Ugandan shilling",
+        "symbol": "Sh"
+      },
+      "nationality": "Ugandan",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "UGA"
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "callingCode": "+380",
+      "flag": "https://flagcdn.com/ua.svg",
+      "language": {
+        "iso639_1": "uk",
+        "iso639_2": "ukr",
+        "name": "Ukrainian",
+        "nativeName": "Українська"
+      },
+      "currency": {
+        "code": "UAH",
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      },
+      "nationality": "Ukrainian",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "UKR"
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "callingCode": "+971",
+      "flag": "https://flagcdn.com/ae.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "AED",
+        "name": "United Arab Emirates dirham",
+        "symbol": "د.إ"
+      },
+      "nationality": "Emirati, Emirian, Emiri",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "ARE"
+    },
+    {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "code": "GB",
+      "callingCode": "+44",
+      "flag": "https://flagcdn.com/gb.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      "nationality": "British, UK",
+      "continent": "Europe",
+      "continentNationality": "European",
+      "alpha3Code": "GBR"
+    },
+    {
+      "name": "United States of America",
+      "code": "US",
+      "callingCode": "+1",
+      "flag": "https://flagcdn.com/us.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "nationality": "American",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "USA"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "callingCode": "+598",
+      "flag": "https://flagcdn.com/uy.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "UYU",
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      },
+      "nationality": "Uruguayan",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "URY"
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "callingCode": "+998",
+      "flag": "https://flagcdn.com/uz.svg",
+      "language": {
+        "iso639_1": "uz",
+        "iso639_2": "uzb",
+        "name": "Uzbek",
+        "nativeName": "Oʻzbek"
+      },
+      "currency": {
+        "code": "UZS",
+        "name": "Uzbekistani so'm",
+        "symbol": "so'm"
+      },
+      "nationality": "Uzbekistani, Uzbek",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "UZB"
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU",
+      "callingCode": "+678",
+      "flag": "https://flagcdn.com/vu.svg",
+      "language": {
+        "iso639_1": "bi",
+        "iso639_2": "bis",
+        "name": "Bislama",
+        "nativeName": "Bislama"
+      },
+      "currency": {
+        "code": "VUV",
+        "name": "Vanuatu vatu",
+        "symbol": "Vt"
+      },
+      "nationality": "Ni-Vanuatu, Vanuatuan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "VUT"
+    },
+    {
+      "name": "Venezuela (Bolivarian Republic of)",
+      "code": "VE",
+      "callingCode": "+58",
+      "flag": "https://flagcdn.com/ve.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "VEF",
+        "name": "Venezuelan bolívar",
+        "symbol": "Bs S"
+      },
+      "nationality": "Venezuelan",
+      "continent": "Americas",
+      "continentNationality": "American",
+      "alpha3Code": "VEN"
+    },
+    {
+      "name": "Vietnam",
+      "code": "VN",
+      "callingCode": "+84",
+      "flag": "https://flagcdn.com/vn.svg",
+      "language": {
+        "iso639_1": "vi",
+        "iso639_2": "vie",
+        "name": "Vietnamese",
+        "nativeName": "Tiếng Việt"
+      },
+      "currency": {
+        "code": "VND",
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      },
+      "nationality": "Vietnamese",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "VNM"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "code": "WF",
+      "callingCode": "+681",
+      "flag": "https://flagcdn.com/wf.svg",
+      "language": {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      "currency": {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "Fr"
+      },
+      "nationality": "Wallis and Futuna, Wallisian or Futunan",
+      "continent": "Oceania",
+      "continentNationality": "Oceanian",
+      "alpha3Code": "WLF"
+    },
+    {
+      "name": "Western Sahara",
+      "code": "EH",
+      "callingCode": "+212",
+      "flag": "https://flagcdn.com/eh.svg",
+      "language": {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      "currency": {
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      },
+      "nationality": "Sahrawi, Sahrawian, Sahraouian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "ESH"
+    },
+    {
+      "name": "Yemen",
+      "code": "YE",
+      "callingCode": "+967",
+      "flag": "https://flagcdn.com/ye.svg",
+      "language": {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      "currency": {
+        "code": "YER",
+        "name": "Yemeni rial",
+        "symbol": "﷼"
+      },
+      "nationality": "Yemeni",
+      "continent": "Asia",
+      "continentNationality": "Asian",
+      "alpha3Code": "YEM"
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM",
+      "callingCode": "+260",
+      "flag": "https://flagcdn.com/zm.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "ZMW",
+        "name": "Zambian kwacha",
+        "symbol": "ZK"
+      },
+      "nationality": "Zambian",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "ZMB"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "callingCode": "+263",
+      "flag": "https://flagcdn.com/zw.svg",
+      "language": {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      "currency": {
+        "code": "ZMW",
+        "name": "Zambian kwacha",
+        "symbol": "K"
+      },
+      "nationality": "Zimbabwean",
+      "continent": "Africa",
+      "continentNationality": "African",
+      "alpha3Code": "ZWE"
+    }
+  ]

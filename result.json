@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$ref": "#/definitions/Customer",
+  "definitions": {
+    "Customer": {
+      "type": "object",
+      "properties": {
+        "date": {
+          "type": "string"
+        },
+        "product_id": {
+          "type": "number"
+        },
+        "calendar_id": {
+          "type": "number"
+        },
+        "sold_out": {
+          "type": "boolean"
+        },
+        "spaces_left": {
+          "type": "number"
+        },
+        "spaces_left_limit": {
+          "type": "number"
+        },
+        "travel_jinni_sold": {
+          "type": "number"
+        },
+        "travel_jinni_sold_percentage": {
+          "type": "number"
+        },
+        "product_limit_exceed": {
+          "type": "number"
+        },
+        "maximum_slots": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "date",
+        "product_id",
+        "calendar_id",
+        "sold_out",
+        "spaces_left",
+        "spaces_left_limit",
+        "travel_jinni_sold",
+        "travel_jinni_sold_percentage",
+        "product_limit_exceed",
+        "maximum_slots"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

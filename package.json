@@ -1,0 +1,15 @@
+{
+  "name": "tsc_to_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "country-code-lookup": "^0.0.20",
+    "ts-json-schema-generator": "^0.95.0"
+  }
+}
